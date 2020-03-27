@@ -1,0 +1,1 @@
+# adsense-fake-click-protection
